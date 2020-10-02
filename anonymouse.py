@@ -1,8 +1,13 @@
-	
+import pyfiglet	
 import requests
 
+ascii_banner = pyfiglet.figlet_format("A2Z-Techs")
+print(ascii_bann
+
 print("<<<<<<coded by {GS THE HACKER(youtuber)}>>>>>>")
+print("                                              ")
 print("<<<<<<Subscribe:   https://www.youtube.com/channel/UCTEQbefjWz_GBrkNTbsw42g>>>>>>")
+print("                                                            ")
 print("<<<<<<https://a2z-techs.blogspot.com>>>>>>")
 
 to = raw_input('To>>')
@@ -29,5 +34,5 @@ email_req = sess.post('http://anonymouse.org/cgi-bin/anon-email.cgi', headers={
 
 if 'The e-mail has been sent' in email_req.text:
     print("[+] Email Sent!")
-    print("[+] In order to increase your privacy, the anonymous e-mail will be randomly delayed up to 12 hours")
+print("[+] In order to increase your privacy, the anonymous e-mail will be randomly delayed up to 1 hours")
 print("[+] Thanks for using Hacker Mail")
