@@ -1,7 +1,7 @@
 # Hacker-mail
 #anonymouse
 
-python script to send anonymmouse mail using anonymouse.org
+python script to send anonymous mail using anonymous.org
 
 coded by {GS THE HACKER(youtuber)}
 
