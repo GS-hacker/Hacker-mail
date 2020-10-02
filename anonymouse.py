@@ -2,7 +2,7 @@ import pyfiglet
 import requests
 
 ascii_banner = pyfiglet.figlet_format("A2Z-Techs")
-print(ascii_bann
+print(ascii_banner)
 
 print("<<<<<<coded by {GS THE HACKER(youtuber)}>>>>>>")
 print("                                              ")
